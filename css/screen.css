@@ -35,7 +35,7 @@ textarea {
 button,
 input { /* 1 */
   overflow: visible;
-  border: 10px;
+  border: 10px solid;
 }
 
 /**
