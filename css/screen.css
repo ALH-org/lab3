@@ -203,6 +203,11 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+.wrap {
+  font-weight: 300 red;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
 
 
 /* ===== STATE STYLES ======= */
