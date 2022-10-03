@@ -204,8 +204,8 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 .wrap {
-  font-weight: 300 red;
-  font-family: 'Courier New', Courier, monospace;
+  font-weight: 300;
+  font-family: red 'Courier New', Courier, monospace;
   text-align: center;
   margin-bottom: 10px;
 }
