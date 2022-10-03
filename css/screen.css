@@ -211,6 +211,9 @@ label {
   color: red;
 }
 
+#bg {
+  background-color: gray;
+}
 
 /* ===== STATE STYLES ======= */
 
