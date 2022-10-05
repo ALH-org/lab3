@@ -49,9 +49,18 @@ input {
 
 @media screen and (min-width: 768px){
  #container {
-
+  text-align: center;
+  margin: 3% auto 0 auto;
+  width: 70%;
  }
- 
+
+ .fontsize {
+  font-size: .8 em;
+ }
+
+ input {
+  width: 60%;
+ }
 }
 
 @media screen and (min-width: 940) {
