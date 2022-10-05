@@ -41,6 +41,10 @@ input {
  .fontsize {
   font-size: .8 em;
  }
+
+ input {
+  width: 30%;
+ }
 }
 
 @media screen and (min-width: 768px){
