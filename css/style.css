@@ -1,8 +1,4 @@
-#input-email {
- text-align: center;
-}
-
-#input-age-verification {
+#input-email, #input-age-verification, #input-submit {
  text-align: center;
 }
 
