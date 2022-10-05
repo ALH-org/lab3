@@ -14,7 +14,7 @@ input {
 }
 
 .fontsize {
- font-size: 1.3em;
+ font-size: 30px;
 }
 
 @media screen and (min-width: 510px) {
