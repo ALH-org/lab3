@@ -31,6 +31,10 @@ input {
  font-size: .45em;
 }
 
+.fontfamily {
+ font-family: 'Courgette', cursive;
+}
+
 #submit {
  width: 20%;
  display: block;
@@ -43,7 +47,6 @@ input {
   text-align: center;
   margin: 3% auto 0 auto;
   width: 65%;
-  font-family: 'Courgette', cursive;
  }
 
  .fontsize {
