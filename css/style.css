@@ -55,6 +55,11 @@ input {
 }
 
 @media screen and (min-width: 768px){
+
+ p, h1 {
+  float: left;
+ }
+
  #container {
   float: left;
   margin: 3% auto 0 auto;
@@ -71,6 +76,11 @@ input {
 }
 
 @media screen and (min-width: 940) {
+
+ p, h1 {
+  float: left;
+ }
+
  #container {
   float: left;
   margin: 3%;
