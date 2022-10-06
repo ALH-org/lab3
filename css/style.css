@@ -23,7 +23,7 @@ input {
  width: 40%;
  padding: 12px 20px;
  margin: 8px 1.5%;
- border-bottom: 1px dotted #ccc;
+ border-bottom: 5px dotted #ccc;
  border-radius: 6px;
 }
 
