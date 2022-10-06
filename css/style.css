@@ -85,7 +85,7 @@ input {
  }
 }
 
-@media screen and (min-width: 940) {
+@media screen and (min-width: 940px) {
  #container {
   float: left;
   margin: 3%;
