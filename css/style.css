@@ -72,9 +72,9 @@ input {
 
 @media screen and (min-width: 940) {
  #container {
-  text-align: center;
-  margin: 3% auto 0 auto;
-  width: 70%;
+  float: left;
+  margin: 3%;
+  width: 40%;
  }
 
  .fontsize {
@@ -82,6 +82,6 @@ input {
  }
 
  input {
-  width: 60%;
+  width: 50%;
  }
 }
