@@ -56,9 +56,9 @@ input {
 
 @media screen and (min-width: 768px){
  #container {
-  text-align: center;
+  float: left;
   margin: 3% auto 0 auto;
-  width: 70%;
+  width: 50%;
  }
 
  .fontsize {
