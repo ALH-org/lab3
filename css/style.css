@@ -10,6 +10,10 @@ p {
  margin-bottom: 1.5%;
 }
 
+ol {
+ list-style: none;
+}
+
 label {
  text-align: center;
  display: block;
